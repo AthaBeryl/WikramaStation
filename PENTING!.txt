@@ -1,0 +1,8 @@
+Sesudah install program(setup) 
+mohon IMPORT database db_kereta.gzipped
+Tatacara IMPORT DATABASE bisa dilihat di
+https://www.youtube.com/watch?v=7WUw9J3Xs8Q
+
+LALU
+Klik button(?) untuk mengetahui fungsi aplikasi
+(button terdapat di dalam dashboard aplikasi

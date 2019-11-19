@@ -1,0 +1,22 @@
+C:\Users\ASUS\source\repos\Kereta Api\Kereta Api\bin\Debug\Kereta Api.exe.config
+C:\Users\ASUS\source\repos\Kereta Api\Kereta Api\bin\Debug\Kereta Api.exe
+C:\Users\ASUS\source\repos\Kereta Api\Kereta Api\bin\Debug\Kereta Api.pdb
+C:\Users\ASUS\source\repos\Kereta Api\Kereta Api\obj\Debug\Kereta Api.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\source\repos\Kereta Api\Kereta Api\obj\Debug\Kereta_Api.Form1.resources
+C:\Users\ASUS\source\repos\Kereta Api\Kereta Api\obj\Debug\Kereta_Api.Form2.resources
+C:\Users\ASUS\source\repos\Kereta Api\Kereta Api\obj\Debug\Kereta_Api.Properties.Resources.resources
+C:\Users\ASUS\source\repos\Kereta Api\Kereta Api\obj\Debug\Kereta Api.csproj.GenerateResource.Cache
+C:\Users\ASUS\source\repos\Kereta Api\Kereta Api\obj\Debug\Kereta Api.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Kereta Api\Kereta Api\obj\Debug\Kereta Api.exe
+C:\Users\ASUS\source\repos\Kereta Api\Kereta Api\obj\Debug\Kereta Api.pdb
+C:\Users\ASUS\source\repos\Kereta Api\Kereta Api\obj\Debug\Kereta_Api.Form3.resources
+C:\Users\ASUS\source\repos\Kereta Api\Kereta Api\obj\Debug\Kereta_Api.Form4.resources
+C:\Users\ASUS\source\repos\Kereta Api\Kereta Api\obj\Debug\Kereta_Api.Form5.resources
+C:\Users\ASUS\source\repos\Kereta Api\Kereta Api\obj\Debug\Kereta_Api.Form6.resources
+C:\Users\ASUS\source\repos\Kereta Api\Kereta Api\obj\Debug\Kereta_Api.Form7.resources
+C:\Users\ASUS\source\repos\Kereta Api\Kereta Api\bin\Debug\MySql.Data.dll
+C:\Users\ASUS\source\repos\Kereta Api\Kereta Api\obj\Debug\Kereta_Api.Form8.resources
+C:\Users\ASUS\source\repos\Kereta Api\Kereta Api\bin\Debug\Kereta Api.exe.manifest
+C:\Users\ASUS\source\repos\Kereta Api\Kereta Api\bin\Debug\Kereta Api.application
+C:\Users\ASUS\source\repos\Kereta Api\Kereta Api\obj\Debug\Kereta Api.exe.manifest
+C:\Users\ASUS\source\repos\Kereta Api\Kereta Api\obj\Debug\Kereta Api.application
